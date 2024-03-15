@@ -33,3 +33,16 @@ This is a Save Editor focused on making edits on Unencrypted saves easy and acce
 
         1. Place the "UnencryptedSave0.bin" file into IB3's Save folder, or Browse ➜ On My iPhone ➜ Infinity Blade 3 .
         2. In game, go to Inventory ➜ Options , then press "import Save Slot 0". Your save will now be loaded.
+
+
+## If there are any issues, please contact me via
+Discord: **g40sty** 
+
+YouTube: [My YouTube Channel](https://www.youtube.com/@g40styboi42)
+
+Or the **Infinity Blade Modding** or I**nfinity Blade Main Discord**
+
+
+
+## Credits:
+Hox8
